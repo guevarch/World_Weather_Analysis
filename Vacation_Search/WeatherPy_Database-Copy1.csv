@@ -1,0 +1,681 @@
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Weather Score,Weather Description
+0,Bredasdorp,-34.5322,20.0403,50.52,91,0,5.79,ZA,141.52,Clear Skies and Light
+1,Swan Hill,-35.3378,143.5544,48.49,84,98,9.04,AU,230.49,Cool and Cloudy
+2,Busselton,-33.65,115.3333,51.55,74,5,7.14,AU,130.55,Clear Skies and Light
+3,Salalah,17.0151,54.0924,77.09,94,100,6.91,OM,271.09000000000003,Warm and Humid
+4,La Plaine,15.3333,-61.25,88.09,55,20,9.22,DM,163.09,Slightly cloudy and Cool
+5,Punta Arenas,-53.15,-70.9167,42.12,70,20,31.07,CL,132.12,Clear Skies and Light
+6,Rikitea,-23.1203,-134.9692,74.03,72,100,15.08,PF,246.03,Warm and Humid
+7,Terrace,54.5163,-128.6035,87.22,45,3,1.34,CA,135.22,Clear Skies and Light
+8,Pisco,-13.7,-76.2167,64.45,77,20,10.36,PE,161.45,Slightly cloudy and Cool
+9,Shaoguan,24.8,113.5833,79.84,80,58,0.49,CN,217.84,Cool and Cloudy
+10,Bandarbeyla,9.4942,50.8122,76.71,83,7,31.07,SO,166.70999999999998,Slightly cloudy and Cool
+11,Upernavik,72.7868,-56.1549,40.06,84,100,2.82,GL,224.06,Cool and Cloudy
+12,Ilulissat,69.2167,-51.1,44.62,87,75,5.75,GL,206.62,Cool and Cloudy
+13,Yellowknife,62.456,-114.3525,66.56,59,100,4.0,CA,225.56,Cool and Cloudy
+14,Nuuk,64.1835,-51.7216,47.88,81,40,9.22,GL,168.88,Slightly cloudy and Cool
+15,Seoul,37.5683,126.9778,78.24,77,1,4.14,KR,156.24,Slightly cloudy and Cool
+16,Katsuura,35.1333,140.3,78.91,92,100,12.01,JP,270.90999999999997,Warm and Humid
+17,Matay,28.419,30.7792,89.47,19,0,4.52,EG,108.47,Clear Skies and Light
+18,Avarua,-21.2078,-159.775,75.25,69,20,16.11,CK,164.25,Slightly cloudy and Cool
+19,Lavrentiya,65.5833,-171.0,42.35,82,100,7.67,RU,224.35,Cool and Cloudy
+20,Bethel,41.3712,-73.414,87.19,49,40,5.75,US,176.19,Slightly cloudy and Cool
+21,Takoradi,4.8845,-1.7554,75.67,86,100,12.5,GH,261.67,Warm and Humid
+22,San Andres,12.5847,-81.7006,87.82,66,40,13.8,CO,193.82,Slightly cloudy and Cool
+23,Ushuaia,-54.8,-68.3,44.26,53,40,3.44,AR,137.26,Clear Skies and Light
+24,Kedrovyy,56.1667,91.8167,48.61,92,34,2.68,RU,174.61,Slightly cloudy and Cool
+25,Tasiilaq,65.6145,-37.6368,44.76,89,86,2.3,GL,219.76,Cool and Cloudy
+26,Thunder Bay,48.4001,-89.3168,63.61,67,100,6.35,CA,230.61,Cool and Cloudy
+27,Mar Del Plata,-38.0023,-57.5575,54.09,60,100,3.44,AR,214.09,Cool and Cloudy
+28,Qaqortoq,60.7167,-46.0333,43.72,83,30,6.31,GL,156.72,Slightly cloudy and Cool
+29,Hermanus,-34.4187,19.2345,53.58,82,0,11.92,ZA,135.57999999999998,Clear Skies and Light
+30,Cape Town,-33.9258,18.4232,60.91,72,0,11.01,ZA,132.91,Clear Skies and Light
+31,Talnakh,69.4865,88.3972,56.21,56,72,5.73,RU,184.21,Slightly cloudy and Cool
+32,Clyde River,70.4692,-68.5914,41.9,90,100,5.37,CA,231.9,Cool and Cloudy
+33,Longyearbyen,78.2186,15.6401,48.04,71,75,20.71,SJ,194.04,Slightly cloudy and Cool
+34,Kologriv,58.8275,44.3178,65.44,80,65,5.12,RU,210.44,Cool and Cloudy
+35,Saint George,37.1041,-113.5841,94.42,40,0,4.0,US,134.42000000000002,Clear Skies and Light
+36,Coquimbo,-29.9533,-71.3436,58.73,82,20,12.66,CL,160.73,Slightly cloudy and Cool
+37,Bluff,-46.6,168.3333,47.8,87,100,11.86,NZ,234.8,Cool and Cloudy
+38,Hobart,-42.8794,147.3294,45.27,75,40,1.14,AU,160.27,Slightly cloudy and Cool
+39,Kollam,8.8833,76.6,74.46,95,100,2.95,IN,269.46,Warm and Humid
+40,Barrow,71.2906,-156.7887,33.71,98,100,14.94,US,231.71,Cool and Cloudy
+41,Sisimiut,66.9395,-53.6735,46.08,79,69,9.6,GL,194.07999999999998,Slightly cloudy and Cool
+42,Matamoros,25.5333,-103.25,91.51,31,75,4.61,MX,197.51,Slightly cloudy and Cool
+43,Puerto Madryn,-42.7692,-65.0385,48.47,68,43,12.15,AR,159.47,Slightly cloudy and Cool
+44,Batemans Bay,-35.7167,150.1833,50.09,78,4,5.3,AU,132.09,Clear Skies and Light
+45,Butaritari,3.0707,172.7902,81.39,76,0,17.72,KI,157.39,Slightly cloudy and Cool
+46,Atuona,-9.8,-139.0333,77.38,65,0,20.74,PF,142.38,Clear Skies and Light
+47,Alice Springs,-23.7,133.8833,29.75,69,0,0.0,AU,98.75,Clear Skies and Light
+48,Jamestown,42.097,-79.2353,76.71,57,75,8.05,US,208.70999999999998,Cool and Cloudy
+49,Kodiak,57.79,-152.4072,63.91,48,0,6.91,US,111.91,Clear Skies and Light
+50,Muli,2.9167,73.5667,82.51,76,97,15.05,MV,255.51,Warm and Humid
+51,Hilo,19.7297,-155.09,88.29,82,40,11.5,US,210.29000000000002,Cool and Cloudy
+52,Tooele,40.5308,-112.2983,96.69,24,0,0.0,US,120.69,Clear Skies and Light
+53,Tuktoyaktuk,69.4541,-133.0374,49.69,67,98,10.49,CA,214.69,Cool and Cloudy
+54,Sukhobezvodnoye,57.0491,44.8891,63.05,92,5,4.99,RU,160.05,Slightly cloudy and Cool
+55,Lasa,46.6166,10.7002,63.36,90,24,0.31,IT,177.36,Slightly cloudy and Cool
+56,Oranjemund,-28.55,16.4333,53.73,90,0,8.39,NA,143.73,Clear Skies and Light
+57,Shwebo,22.5667,95.7,82.9,68,93,2.48,MM,243.9,Warm and Humid
+58,Anderson,34.5334,-82.6499,94.95,54,0,12.66,US,148.95,Clear Skies and Light
+59,Cap Malheureux,-19.9842,57.6142,71.47,74,13,8.99,MU,158.47,Slightly cloudy and Cool
+60,Torbay,47.6666,-52.7314,64.27,94,80,10.33,CA,238.26999999999998,Warm and Humid
+61,Namibe,-15.1961,12.1522,63.57,90,23,3.71,AO,176.57,Slightly cloudy and Cool
+62,Miragoane,18.4423,-73.0876,83.34,70,17,7.54,HT,170.34,Slightly cloudy and Cool
+63,Vysokogornyy,50.1167,139.15,54.79,98,23,1.12,RU,175.79,Slightly cloudy and Cool
+64,Bani,18.2833,-70.3333,85.44,54,12,16.17,DO,151.44,Clear Skies and Light
+65,Bushehr,28.9684,50.8385,90.63,71,100,11.99,IR,261.63,Warm and Humid
+66,Vostok,46.4856,135.8833,61.97,95,93,3.13,RU,249.97,Warm and Humid
+67,Aksu,41.1231,80.2644,86.16,23,42,5.01,CN,151.16,Clear Skies and Light
+68,Pringsewu,-5.3582,104.9744,74.23,97,100,0.92,ID,271.23,Warm and Humid
+69,East London,-33.0153,27.9116,65.21,72,99,4.25,ZA,236.20999999999998,Warm and Humid
+70,Castro,-24.7911,-50.0119,67.93,60,92,2.15,BR,219.93,Cool and Cloudy
+71,Taltal,-25.4,-70.4833,64.06,71,85,5.95,CL,220.06,Cool and Cloudy
+72,Vaini,-21.2,-175.2,75.36,83,20,6.91,TO,178.36,Slightly cloudy and Cool
+73,Kavieng,-2.5744,150.7967,82.09,74,65,16.93,PG,221.09,Cool and Cloudy
+74,Totness,5.8833,-56.3167,82.36,74,49,6.24,SR,205.36,Cool and Cloudy
+75,Bambous Virieux,-20.3428,57.7575,71.22,77,70,12.88,MU,218.22,Cool and Cloudy
+76,Adrar,20.5022,-10.0711,106.05,8,3,17.4,MR,117.05,Clear Skies and Light
+77,Mercedes,-34.6515,-59.4307,68.95,88,85,5.93,AR,241.95,Warm and Humid
+78,Bouar,5.934,15.596,65.41,95,100,2.04,CF,260.40999999999997,Warm and Humid
+79,Mataura,-46.1927,168.8643,47.48,99,100,2.08,NZ,246.48,Warm and Humid
+80,Hithadhoo,-0.6,73.0833,81.95,76,100,10.36,MV,257.95,Warm and Humid
+81,Gunjur,13.2019,-16.7339,80.58,80,100,14.38,GM,260.58,Warm and Humid
+82,Tuatapere,-46.1333,167.6833,43.99,96,100,0.85,NZ,239.99,Warm and Humid
+83,Hanmer Springs,-42.5167,172.8167,41.77,95,100,3.71,NZ,236.77,Warm and Humid
+84,Lebu,-37.6167,-73.65,54.41,74,32,10.18,CL,160.41,Slightly cloudy and Cool
+85,Bulri,24.8667,68.3333,81.55,83,100,15.03,PK,264.55,Warm and Humid
+86,Lata,40.1629,-8.3327,62.92,70,0,5.73,PT,132.92000000000002,Clear Skies and Light
+87,Saint-Philippe,-21.3585,55.7679,66.22,73,5,5.84,RE,144.22,Clear Skies and Light
+88,Port Alfred,-33.5906,26.891,64.17,70,99,6.67,ZA,233.17000000000002,Cool and Cloudy
+89,Luderitz,-26.6481,15.1594,57.45,72,0,6.13,NA,129.45,Clear Skies and Light
+90,Aasiaat,68.7098,-52.8699,37.65,92,67,5.14,GL,196.65,Slightly cloudy and Cool
+91,Grand Gaube,-20.0064,57.6608,71.38,74,11,8.99,MU,156.38,Slightly cloudy and Cool
+92,Codrington,-38.2667,141.9667,44.83,78,50,5.73,AU,172.82999999999998,Slightly cloudy and Cool
+93,Carnarvon,-24.8667,113.6333,69.12,53,100,1.59,AU,222.12,Cool and Cloudy
+94,Leh,34.1667,77.5833,59.61,72,100,4.68,IN,231.61,Cool and Cloudy
+95,The Valley,18.217,-63.0578,85.86,65,20,18.41,AI,170.86,Slightly cloudy and Cool
+96,Mayo,38.8876,-76.5119,89.71,76,75,5.99,US,240.70999999999998,Warm and Humid
+97,Port Blair,11.6667,92.75,81.48,80,60,4.03,IN,221.48000000000002,Cool and Cloudy
+98,Nahrin,36.0649,69.1334,81.7,24,0,4.03,AF,105.7,Clear Skies and Light
+99,Cherskiy,68.75,161.3,47.68,58,56,2.17,RU,161.68,Slightly cloudy and Cool
+100,Srednekolymsk,67.45,153.6833,42.6,68,92,9.13,RU,202.6,Cool and Cloudy
+101,Hualmay,-11.0964,-77.6139,66.31,73,16,13.65,PE,155.31,Slightly cloudy and Cool
+102,Pangnirtung,66.1451,-65.7125,59.68,56,29,4.43,CA,144.68,Clear Skies and Light
+103,Rantauprapat,2.1,99.8333,74.07,89,100,1.86,ID,263.07,Warm and Humid
+104,Kaitangata,-46.2817,169.8464,44.26,95,100,4.7,NZ,239.26,Warm and Humid
+105,Shinjo,38.7586,140.3008,69.71,98,74,1.99,JP,241.70999999999998,Warm and Humid
+106,Norman Wells,65.282,-126.8329,66.07,39,97,1.54,CA,202.07,Cool and Cloudy
+107,Faanui,-16.4833,-151.75,77.77,78,23,21.9,PF,178.76999999999998,Slightly cloudy and Cool
+108,Kostomuksha,64.571,30.5767,61.61,70,96,9.35,RU,227.61,Cool and Cloudy
+109,Dukat,62.55,155.55,49.3,56,10,5.32,RU,115.3,Clear Skies and Light
+110,Yongan,39.6957,113.6871,59.07,87,1,1.01,CN,147.07,Clear Skies and Light
+111,Vadso,70.0744,29.7487,63.48,82,75,9.22,NO,220.48,Cool and Cloudy
+112,Kungurtug,50.5994,97.5228,46.26,95,95,0.22,RU,236.26,Warm and Humid
+113,Qaanaaq,77.484,-69.3632,40.53,79,95,7.74,GL,214.53,Cool and Cloudy
+114,Tiksi,71.6872,128.8694,55.17,82,47,5.59,RU,184.17000000000002,Slightly cloudy and Cool
+115,Palitana,21.5167,71.8333,80.15,82,100,7.76,IN,262.15,Warm and Humid
+116,Vila Franca Do Campo,37.7167,-25.4333,75.61,76,83,7.9,PT,234.61,Cool and Cloudy
+117,Gunupur,19.0833,83.8167,78.85,89,100,2.1,IN,267.85,Warm and Humid
+118,Nemours,48.2751,2.6908,70.16,37,98,6.8,FR,205.16,Cool and Cloudy
+119,Kenai,60.5544,-151.2583,64.02,50,0,3.44,US,114.02,Clear Skies and Light
+120,Padang,-0.9492,100.3543,77.09,82,85,4.21,ID,244.09,Warm and Humid
+121,San Cristobal,7.7669,-72.225,77.18,63,52,6.69,VE,192.18,Slightly cloudy and Cool
+122,Chumikan,54.7183,135.315,56.1,88,1,5.37,RU,145.1,Clear Skies and Light
+123,Khatanga,71.9667,102.5,59.4,71,100,2.64,RU,230.4,Cool and Cloudy
+124,Waingapu,-9.6567,120.2641,75.69,83,8,15.46,ID,166.69,Slightly cloudy and Cool
+125,Baijiantan,45.6333,85.1833,85.35,15,0,12.39,CN,100.35,Clear Skies and Light
+126,Port Hedland,-20.3167,118.5667,60.85,55,1,8.05,AU,116.85,Clear Skies and Light
+127,Narsaq,60.9167,-46.05,57.42,78,18,7.18,GL,153.42000000000002,Clear Skies and Light
+128,Kapaa,22.0752,-159.319,82.72,69,20,13.8,US,171.72,Slightly cloudy and Cool
+129,Pevek,69.7008,170.3133,34.54,91,100,3.4,RU,225.54,Cool and Cloudy
+130,Howard Springs,-12.497,131.047,71.51,83,7,7.16,AU,161.51,Slightly cloudy and Cool
+131,Cidreira,-30.1811,-50.2056,62.78,82,62,6.91,BR,206.78,Cool and Cloudy
+132,Ahipara,-35.1667,173.1667,57.81,90,19,16.75,NZ,166.81,Slightly cloudy and Cool
+133,Mount Isa,-20.7333,139.5,47.97,43,0,2.3,AU,90.97,Clear Skies and Light
+134,Port Elizabeth,-33.918,25.5701,58.32,90,100,3.0,ZA,248.32,Warm and Humid
+135,Mount Gambier,-37.8333,140.7667,39.11,100,40,3.44,AU,179.11,Slightly cloudy and Cool
+136,Marsa Matruh,31.3525,27.2453,78.28,77,0,5.73,EG,155.28,Slightly cloudy and Cool
+137,Nelson Bay,-32.7167,152.15,52.0,84,10,8.01,AU,146.0,Clear Skies and Light
+138,Puerto Ayora,-0.7393,-90.3518,80.56,90,81,8.99,EC,251.56,Warm and Humid
+139,Xinyu,27.8043,114.9334,81.05,66,82,2.35,CN,229.05,Cool and Cloudy
+140,Port Lincoln,-34.7333,135.8667,50.14,86,86,8.32,AU,222.14,Cool and Cloudy
+141,Beringovskiy,63.05,179.3167,47.59,89,67,4.81,RU,203.59,Cool and Cloudy
+142,Provideniya,64.3833,-173.3,46.04,79,100,6.67,RU,225.04,Cool and Cloudy
+143,Caravelas,-17.7125,-39.2481,72.07,75,4,4.61,BR,151.07,Clear Skies and Light
+144,Dingle,10.9995,122.6711,75.85,89,95,2.08,PH,259.85,Warm and Humid
+145,Bengkulu,-3.8004,102.2655,75.74,87,52,3.62,ID,214.74,Cool and Cloudy
+146,Frontera,26.9333,-101.45,96.55,34,40,5.99,MX,170.55,Slightly cloudy and Cool
+147,Brigantine,39.4101,-74.3646,83.19,66,0,8.05,US,149.19,Clear Skies and Light
+148,Albany,42.6001,-73.9662,83.17,48,100,1.01,US,231.17000000000002,Cool and Cloudy
+149,Camacha,33.0833,-16.3333,69.22,78,40,16.11,PT,187.22,Slightly cloudy and Cool
+150,Chandbali,20.7833,86.7667,81.77,84,97,5.84,IN,262.77,Warm and Humid
+151,Ostrovnoy,68.0531,39.5131,62.82,85,100,17.13,RU,247.82,Warm and Humid
+152,Kruisfontein,-34.0033,24.7314,49.89,90,26,3.4,ZA,165.89,Slightly cloudy and Cool
+153,Tarko-Sale,64.9225,77.785,50.47,79,16,11.32,RU,145.47,Clear Skies and Light
+154,Santiago,-33.4569,-70.6483,56.64,71,100,9.22,CL,227.64,Cool and Cloudy
+155,Mahebourg,-20.4081,57.7,71.26,83,40,11.5,MU,194.26,Slightly cloudy and Cool
+156,Sinnamary,5.3833,-52.95,82.2,78,84,5.66,GF,244.2,Warm and Humid
+157,Waddan,29.1614,16.139,87.67,15,0,9.57,LY,102.67,Clear Skies and Light
+158,Chapleau,47.8405,-83.4034,62.69,94,100,9.22,CA,256.69,Warm and Humid
+159,Sur,22.5667,59.5289,81.91,72,23,19.44,OM,176.91,Slightly cloudy and Cool
+160,Doha,25.2867,51.5333,91.38,70,20,13.8,QA,181.38,Slightly cloudy and Cool
+161,Hutchinson,38.0608,-97.9298,88.75,55,0,6.91,US,143.75,Clear Skies and Light
+162,Belaya Gora,68.5333,146.4167,51.87,48,83,10.47,RU,182.87,Slightly cloudy and Cool
+163,Maniitsoq,65.4167,-52.9,43.38,88,42,14.25,GL,173.38,Slightly cloudy and Cool
+164,Ribeira Grande,38.5167,-28.7,77.4,83,75,10.36,PT,235.4,Warm and Humid
+165,Helong,42.5397,128.9972,64.26,94,86,4.12,CN,244.26,Warm and Humid
+166,Kidal,18.4411,1.4078,99.37,18,0,10.83,ML,117.37,Clear Skies and Light
+167,Yasnogorsk,54.4803,37.6975,70.57,82,10,4.74,RU,162.57,Slightly cloudy and Cool
+168,Nawa,27.0167,75.0,79.86,86,96,11.39,IN,261.86,Warm and Humid
+169,Severo-Kurilsk,50.6789,156.125,53.04,89,49,6.85,RU,191.04,Slightly cloudy and Cool
+170,Meulaboh,4.1363,96.1285,75.25,90,100,4.81,ID,265.25,Warm and Humid
+171,Nikolskoye,59.7035,30.7861,62.49,91,100,4.09,RU,253.49,Warm and Humid
+172,Goma,-1.6792,29.2228,68.47,64,95,0.22,CD,227.47,Cool and Cloudy
+173,Cockburn Town,21.4612,-71.1419,81.05,76,7,16.44,TC,164.05,Slightly cloudy and Cool
+174,Puerto Quijarro,-17.7833,-57.7667,96.98,16,0,4.85,BO,112.98,Clear Skies and Light
+175,Smidovich,48.6,133.8167,65.66,97,100,3.87,RU,262.65999999999997,Warm and Humid
+176,Tadpatri,14.9167,78.0167,85.17,65,99,4.16,IN,249.17000000000002,Warm and Humid
+177,Asau,46.4333,26.4,68.92,86,7,3.44,RO,161.92000000000002,Slightly cloudy and Cool
+178,Cordoba,-31.4135,-64.1811,62.76,67,100,8.05,AR,229.76,Cool and Cloudy
+179,Dicabisagan,17.0818,122.4157,78.53,89,100,4.61,PH,267.53,Warm and Humid
+180,Georgetown,5.4112,100.3354,78.89,89,20,3.44,MY,187.89,Slightly cloudy and Cool
+181,Katherine,-14.4667,132.2667,53.92,62,17,4.61,AU,132.92000000000002,Clear Skies and Light
+182,Swan River,52.1058,-101.2676,66.09,52,97,9.22,CA,215.09,Cool and Cloudy
+183,Ixtapa,20.7,-105.2,87.22,62,100,6.91,MX,249.22,Warm and Humid
+184,Esperance,-33.8667,121.9,53.04,75,34,14.47,AU,162.04,Slightly cloudy and Cool
+185,Nova Granada,-20.5339,-49.3142,84.45,23,1,4.56,BR,108.45,Clear Skies and Light
+186,Bathsheba,13.2167,-59.5167,86.61,91,40,18.41,BB,217.61,Cool and Cloudy
+187,Isangel,-19.55,169.2667,71.71,94,91,5.75,VU,256.71,Warm and Humid
+188,Sabang,5.8933,95.3214,80.91,74,100,3.85,ID,254.91,Warm and Humid
+189,Faya,18.3851,42.4509,68.11,66,100,6.71,SA,234.11,Cool and Cloudy
+190,Sahuaripa,29.05,-109.2333,89.53,44,98,4.99,MX,231.53,Cool and Cloudy
+191,Praya,14.9215,-23.5087,81.14,83,40,8.05,CV,204.14,Cool and Cloudy
+192,Hamirpur,25.95,80.15,85.66,71,100,6.17,IN,256.65999999999997,Warm and Humid
+193,Hvolsvollur,63.7533,-20.2243,52.47,97,100,11.97,IS,249.47,Warm and Humid
+194,Ukiah,39.1502,-123.2078,100.44,26,0,3.44,US,126.44,Clear Skies and Light
+195,Baft,29.234,56.6057,67.93,75,100,4.07,IR,242.93,Warm and Humid
+196,New Norfolk,-42.7826,147.0587,44.92,82,62,1.01,AU,188.92000000000002,Slightly cloudy and Cool
+197,Cayenne,4.9333,-52.3333,79.09,1,0,4.61,GF,80.09,Clear Skies and Light
+198,Okhotsk,59.3833,143.3,59.05,86,100,3.76,RU,245.05,Warm and Humid
+199,Aktau,43.65,51.2,75.78,53,100,14.79,KZ,228.78,Cool and Cloudy
+200,Araouane,18.9048,-3.5265,103.87,6,0,8.21,ML,109.87,Clear Skies and Light
+201,Aklavik,68.2191,-135.0107,59.52,43,41,17.98,CA,143.52,Clear Skies and Light
+202,Cabo San Lucas,22.8909,-109.9124,94.3,66,20,9.22,MX,180.3,Slightly cloudy and Cool
+203,Hoopstad,-27.8327,25.9083,58.37,50,26,7.65,ZA,134.37,Clear Skies and Light
+204,Chokurdakh,70.6333,147.9167,50.67,51,99,11.12,RU,200.67000000000002,Cool and Cloudy
+205,Ambon,-3.6954,128.1814,78.94,83,40,8.05,ID,201.94,Cool and Cloudy
+206,Fort Nelson,58.8053,-122.7002,77.72,41,46,6.4,CA,164.72,Slightly cloudy and Cool
+207,Chuy,-33.6971,-53.4616,63.18,91,100,4.74,UY,254.18,Warm and Humid
+208,San Juan,-31.5375,-68.5364,54.84,61,71,14.97,AR,186.84,Slightly cloudy and Cool
+209,Kemi,65.8596,24.8228,58.77,77,0,6.91,FI,135.77,Clear Skies and Light
+210,Sandwick,60.0,-1.25,53.42,87,0,3.44,GB,140.42000000000002,Clear Skies and Light
+211,Souillac,-20.5167,57.5167,70.18,83,40,11.5,MU,193.18,Slightly cloudy and Cool
+212,Krasnoselkup,65.7,82.4667,53.31,86,100,16.17,RU,239.31,Warm and Humid
+213,Whitehaven,54.549,-3.5841,57.65,76,100,1.01,GB,233.65,Cool and Cloudy
+214,Mackenzie,55.2999,-123.1698,82.62,44,0,3.44,CA,126.62,Clear Skies and Light
+215,Save,8.0425,2.486,73.72,94,100,6.76,BJ,267.72,Warm and Humid
+216,Ornes,66.8689,13.7078,50.56,86,92,9.28,NO,228.56,Cool and Cloudy
+217,Vardo,70.3705,31.1107,60.78,82,0,16.11,NO,142.78,Clear Skies and Light
+218,Tilichiki,60.4667,166.1,46.18,80,76,8.63,RU,202.18,Cool and Cloudy
+219,Jumla,29.2747,82.1838,61.86,98,100,1.23,NP,259.86,Warm and Humid
+220,San Patricio,28.017,-97.5169,97.16,43,100,14.67,US,240.16,Warm and Humid
+221,Ribas Do Rio Pardo,-20.4431,-53.7592,90.23,17,10,2.93,BR,117.23,Clear Skies and Light
+222,Carauari,-4.8828,-66.8958,87.01,56,98,0.65,BR,241.01,Warm and Humid
+223,Northam,51.0333,-4.2167,61.39,78,92,4.45,GB,231.39,Cool and Cloudy
+224,Dikson,73.5069,80.5464,41.34,95,94,13.18,RU,230.34,Cool and Cloudy
+225,Hami,42.8,93.45,83.64,14,40,8.86,CN,137.64,Clear Skies and Light
+226,Thompson,55.7435,-97.8558,53.13,90,100,8.79,CA,243.13,Warm and Humid
+227,Shingu,33.7333,135.9833,76.91,92,15,3.71,JP,183.91,Slightly cloudy and Cool
+228,Kemijarvi,66.7131,27.4306,57.47,92,32,10.11,FI,181.47,Slightly cloudy and Cool
+229,Flin Flon,54.7682,-101.865,66.04,52,75,11.5,CA,193.04000000000002,Slightly cloudy and Cool
+230,Iracoubo,5.4802,-53.2011,82.29,75,60,5.82,GF,217.29000000000002,Cool and Cloudy
+231,Banjar,-8.19,114.9675,73.45,88,9,4.07,ID,170.45,Slightly cloudy and Cool
+232,Tambovka,50.0969,128.0489,66.6,88,97,7.4,RU,251.6,Warm and Humid
+233,Naze,28.3667,129.4833,79.72,82,99,18.77,JP,260.72,Warm and Humid
+234,Neuquen,-38.9516,-68.0591,55.29,54,20,8.05,AR,129.29,Clear Skies and Light
+235,Wahiawa,21.5028,-158.0236,80.92,60,0,10.36,US,140.92000000000002,Clear Skies and Light
+236,Saint-Pierre,-21.3393,55.4781,68.92,76,20,6.91,RE,164.92000000000002,Slightly cloudy and Cool
+237,Galeana,24.8333,-100.0667,78.75,42,100,13.69,MX,220.75,Cool and Cloudy
+238,High Level,58.5169,-117.136,75.31,64,20,4.61,CA,159.31,Slightly cloudy and Cool
+239,Lompoc,34.6391,-120.4579,87.01,72,0,16.11,US,159.01,Slightly cloudy and Cool
+240,Necochea,-38.5473,-58.7368,51.51,96,93,9.22,AR,240.51,Warm and Humid
+241,Marsh Harbour,26.5412,-77.0636,83.66,68,5,11.01,BS,156.66,Slightly cloudy and Cool
+242,Hasaki,35.7333,140.8333,79.29,91,100,13.13,JP,270.29,Warm and Humid
+243,Cariati,39.4922,16.9594,78.48,70,0,4.07,IT,148.48000000000002,Clear Skies and Light
+244,Iqaluit,63.7506,-68.5145,58.73,47,40,4.61,CA,145.73,Clear Skies and Light
+245,Bosaso,11.2842,49.1816,90.43,45,80,7.38,SO,215.43,Cool and Cloudy
+246,Presidencia Roque Saenz Pena,-26.7852,-60.4388,93.85,22,37,8.16,AR,152.85,Clear Skies and Light
+247,Sitka,57.0531,-135.33,62.49,63,75,4.61,US,200.49,Cool and Cloudy
+248,Mindelo,16.8901,-24.9804,81.95,69,20,4.61,CV,170.95,Slightly cloudy and Cool
+249,Newcastle,-32.9272,151.7765,47.71,82,0,9.22,AU,129.71,Clear Skies and Light
+250,Bubaque,11.2833,-15.8333,79.5,79,100,13.69,GW,258.5,Warm and Humid
+251,Opuwo,-18.0607,13.84,66.52,26,95,0.78,NA,187.51999999999998,Slightly cloudy and Cool
+252,Constitucion,-35.3333,-72.4167,55.2,67,1,4.63,CL,123.2,Clear Skies and Light
+253,Lakes Entrance,-37.8811,147.981,50.16,82,78,15.32,AU,210.16,Cool and Cloudy
+254,Shu,43.5983,73.7614,83.21,33,51,6.69,KZ,167.20999999999998,Slightly cloudy and Cool
+255,Namatanai,-3.6667,152.4333,78.39,79,81,9.93,PG,238.39,Warm and Humid
+256,Noumea,-22.2763,166.4572,69.01,99,75,2.84,NC,243.01,Warm and Humid
+257,Topolovatu Mare,45.7739,21.6189,78.82,35,71,6.78,RO,184.82,Slightly cloudy and Cool
+258,Tulun,54.5611,100.5792,52.66,81,100,4.56,RU,233.66,Cool and Cloudy
+259,Tura,25.5198,90.2201,75.33,88,93,3.51,IN,256.33,Warm and Humid
+260,Mokhsogollokh,61.4681,128.9203,63.21,73,6,0.47,RU,142.21,Clear Skies and Light
+261,West Fargo,46.875,-96.9004,78.03,42,75,21.85,US,195.03,Slightly cloudy and Cool
+262,Sao Filipe,14.8961,-24.4956,79.61,85,58,3.15,CV,222.61,Cool and Cloudy
+263,Belmonte,-15.8631,-38.8828,73.38,70,1,7.2,BR,144.38,Clear Skies and Light
+264,Guerrero Negro,27.9769,-114.0611,80.2,51,25,11.5,MX,156.2,Slightly cloudy and Cool
+265,Arlit,18.7369,7.3853,101.89,11,8,8.75,NE,120.89,Clear Skies and Light
+266,Yumen,40.2833,97.2,77.29,15,42,5.99,CN,134.29000000000002,Clear Skies and Light
+267,Talwandi Bhai,30.85,74.9333,86.45,68,100,7.14,IN,254.45,Warm and Humid
+268,Urumqi,43.801,87.6005,77.95,32,0,6.71,CN,109.95,Clear Skies and Light
+269,Panshi,42.9422,126.0561,66.7,91,100,4.25,CN,257.7,Warm and Humid
+270,Waitati,-45.75,170.5667,43.81,92,99,4.32,NZ,234.81,Cool and Cloudy
+271,Kizema,61.113,44.8302,62.49,89,6,5.06,RU,157.49,Slightly cloudy and Cool
+272,Ust-Maya,60.4167,134.5333,63.46,80,8,1.54,RU,151.46,Clear Skies and Light
+273,Guayaramerin,-10.8368,-65.3614,96.26,22,52,1.59,BO,170.26,Slightly cloudy and Cool
+274,Lumberton,34.6182,-79.0086,97.11,29,98,10.6,US,224.11,Cool and Cloudy
+275,La Ronge,55.1001,-105.2842,70.05,37,40,10.36,CA,147.05,Clear Skies and Light
+276,Bousso,10.4795,16.7117,73.69,88,100,3.85,TD,261.69,Warm and Humid
+277,Douglas,41.3,-96.167,90.52,43,0,4.61,US,133.51999999999998,Clear Skies and Light
+278,Bonthe,7.5264,-12.505,75.2,89,100,6.24,SL,264.2,Warm and Humid
+279,Yulara,-25.2406,130.9889,41.61,41,3,9.19,AU,85.61,Clear Skies and Light
+280,Merrill,45.1805,-89.6835,82.17,46,48,13.09,US,176.17000000000002,Slightly cloudy and Cool
+281,Colares,38.7992,-9.4469,69.48,69,20,32.01,PT,158.48000000000002,Slightly cloudy and Cool
+282,Nantucket,41.2835,-70.0995,82.51,57,0,11.5,US,139.51,Clear Skies and Light
+283,Saskylakh,71.9167,114.0833,63.09,89,100,14.07,RU,252.09,Warm and Humid
+284,Vao,-22.6667,167.4833,68.99,71,16,10.11,NC,155.99,Slightly cloudy and Cool
+285,Road Town,18.4167,-64.6167,86.04,70,20,10.36,VG,176.04000000000002,Slightly cloudy and Cool
+286,Tateyama,34.9833,139.8667,79.11,91,100,11.34,JP,270.11,Warm and Humid
+287,Tarsus,36.9188,34.8784,82.27,72,0,2.91,TR,154.26999999999998,Clear Skies and Light
+288,Ponta Delgada,37.7333,-25.6667,74.12,88,20,14.97,PT,182.12,Slightly cloudy and Cool
+289,Kavaratti,10.5669,72.642,80.51,80,100,19.91,IN,260.51,Warm and Humid
+290,Hobyo,5.3505,48.5268,75.97,80,100,26.84,SO,255.97,Warm and Humid
+291,Amapa,1.0,-52.0,82.08,78,35,2.93,BR,195.07999999999998,Slightly cloudy and Cool
+292,Perth,-31.9333,115.8333,57.38,67,0,12.66,AU,124.38,Clear Skies and Light
+293,Jijiga,9.35,42.8,68.31,52,68,12.93,ET,188.31,Slightly cloudy and Cool
+294,Buala,-8.145,159.5921,78.94,80,27,6.49,SB,185.94,Slightly cloudy and Cool
+295,Abu Kamal,34.4506,40.9171,94.23,14,0,8.77,SY,108.23,Clear Skies and Light
+296,Rovaniemi,66.5,25.7167,56.61,94,100,8.05,FI,250.61,Warm and Humid
+297,Broken Hill,-31.95,141.4333,41.52,72,78,2.37,AU,191.52,Slightly cloudy and Cool
+298,San Quintin,30.4833,-115.95,73.87,67,68,13.15,MX,208.87,Cool and Cloudy
+299,Kinkala,-4.3614,14.7644,72.36,58,100,4.63,CG,230.36,Cool and Cloudy
+300,Le Port,-20.9373,55.2919,69.76,67,29,4.99,RE,165.76,Slightly cloudy and Cool
+301,Quatre Cocos,-20.2078,57.7625,71.1,78,51,12.01,MU,200.1,Cool and Cloudy
+302,Sao Joao Da Barra,-21.6403,-41.0511,75.29,71,0,11.68,BR,146.29000000000002,Clear Skies and Light
+303,Odweyne,9.4092,45.064,77.36,39,69,18.61,SO,185.36,Slightly cloudy and Cool
+304,Excelsior Springs,39.3392,-94.2261,88.16,58,40,0.0,US,186.16,Slightly cloudy and Cool
+305,Tocopilla,-22.092,-70.1979,65.19,69,93,10.83,CL,227.19,Cool and Cloudy
+306,Zabol,32.25,67.25,78.58,55,10,15.75,AF,143.57999999999998,Clear Skies and Light
+307,Husavik,66.0449,-17.3389,60.03,69,100,15.9,IS,229.03,Cool and Cloudy
+308,Rincon,32.296,-81.2354,93.16,46,75,10.36,US,214.16,Cool and Cloudy
+309,Svetlogorsk,52.6333,29.7333,59.38,91,97,9.71,BY,247.38,Warm and Humid
+310,Cuamba,-14.8031,36.5372,64.6,61,72,5.21,MZ,197.6,Slightly cloudy and Cool
+311,Hofn,64.2539,-15.2082,53.37,98,100,26.57,IS,251.37,Warm and Humid
+312,Jinchang,38.4953,102.1739,72.9,23,0,7.61,CN,95.9,Clear Skies and Light
+313,Siverek,37.755,39.3167,84.88,15,0,2.19,TR,99.88,Clear Skies and Light
+314,Axim,4.8699,-2.2405,76.14,85,100,12.95,GH,261.14,Warm and Humid
+315,Sorong,-0.8833,131.25,77.25,89,19,4.23,ID,185.25,Slightly cloudy and Cool
+316,Sorland,67.667,12.6934,49.86,82,92,18.1,NO,223.86,Cool and Cloudy
+317,Arcachon,44.5875,-1.0519,70.12,73,0,6.91,FR,143.12,Clear Skies and Light
+318,Laguna,38.421,-121.4238,94.32,39,0,8.05,US,133.32,Clear Skies and Light
+319,Neiafu,-18.65,-173.9833,77.68,78,40,8.05,TO,195.68,Slightly cloudy and Cool
+320,Delta Del Tigre,-34.7633,-56.3853,59.41,94,100,19.57,UY,253.41,Warm and Humid
+321,Kaeo,-35.1,173.7833,57.33,95,28,15.03,NZ,180.32999999999998,Slightly cloudy and Cool
+322,Alihe,50.5667,123.7167,66.33,98,100,2.62,CN,264.33,Warm and Humid
+323,Boddam,57.4667,-1.7833,57.58,79,76,6.29,GB,212.57999999999998,Cool and Cloudy
+324,Jodhpur,26.2867,73.03,80.89,81,100,13.09,IN,261.89,Warm and Humid
+325,Flinders,-34.5833,150.8552,54.18,69,0,8.99,AU,123.18,Clear Skies and Light
+326,Chepareria,1.3077,35.2039,60.58,85,36,3.11,KE,181.57999999999998,Slightly cloudy and Cool
+327,Kalmunai,7.4167,81.8167,78.37,84,96,5.44,LK,258.37,Warm and Humid
+328,Palu,-0.8917,119.8707,75.07,96,72,2.48,ID,243.07,Warm and Humid
+329,Ancud,-41.8697,-73.8203,53.22,78,19,3.78,CL,150.22,Clear Skies and Light
+330,Gorontalo,0.5412,123.0595,74.1,95,86,2.42,ID,255.1,Warm and Humid
+331,Tieli,46.95,128.05,69.4,77,99,6.17,CN,245.4,Warm and Humid
+332,Linguere,15.3953,-15.1193,87.3,61,100,18.1,SN,248.3,Warm and Humid
+333,Chokwe,-24.5333,32.9833,65.3,60,0,6.13,MZ,125.3,Clear Skies and Light
+334,Menongue,-14.6585,17.691,56.91,31,28,4.88,AO,115.91,Clear Skies and Light
+335,Coihaique,-45.5752,-72.0662,46.35,39,75,9.22,CL,160.35,Slightly cloudy and Cool
+336,Victor Harbor,-35.5667,138.6167,49.68,93,86,5.64,AU,228.68,Cool and Cloudy
+337,Ilhabela,-23.7781,-45.3581,70.34,81,13,3.85,BR,164.34,Slightly cloudy and Cool
+338,Olafsvik,64.8945,-23.7142,51.46,80,92,19.48,IS,223.46,Cool and Cloudy
+339,Mackay,-21.15,149.2,45.68,57,0,13.18,AU,102.68,Clear Skies and Light
+340,Saurimo,-9.6608,20.3916,65.12,27,78,4.23,AO,170.12,Slightly cloudy and Cool
+341,Nawabganj,24.5911,88.271,83.53,75,100,8.32,BD,258.53,Warm and Humid
+342,Bundaberg,-24.85,152.35,47.21,78,0,6.85,AU,125.21000000000001,Clear Skies and Light
+343,Laela,-8.5667,32.05,61.45,53,91,4.18,TZ,205.45,Cool and Cloudy
+344,Santo Domingo,18.5001,-69.9886,85.64,65,75,5.75,DO,225.64,Cool and Cloudy
+345,Wattegama,6.7989,81.4808,74.23,91,100,2.75,LK,265.23,Warm and Humid
+346,Victoria Falls,-17.9235,25.843,58.57,48,0,2.98,ZW,106.57,Clear Skies and Light
+347,Labuhan,-6.8844,112.2051,75.83,87,13,6.02,ID,175.82999999999998,Slightly cloudy and Cool
+348,Ponta Do Sol,32.6667,-17.1,73.71,79,0,5.37,PT,152.70999999999998,Clear Skies and Light
+349,Malartic,48.1335,-78.1328,78.03,59,91,9.06,CA,228.03,Cool and Cloudy
+350,Sechura,-5.5569,-80.8222,76.66,58,15,14.61,PE,149.66,Clear Skies and Light
+351,Chernyshevskiy,63.0128,112.4714,65.89,92,7,4.0,RU,164.89,Slightly cloudy and Cool
+352,Monteprandone,42.9201,13.8426,76.73,82,100,4.63,IT,258.73,Warm and Humid
+353,Fairbanks,64.8378,-147.7164,55.36,77,75,8.05,US,207.36,Cool and Cloudy
+354,College,64.8569,-147.8028,55.35,77,75,8.05,US,207.35,Cool and Cloudy
+355,Straumen,63.8709,11.2999,51.8,85,97,9.44,NO,233.8,Cool and Cloudy
+356,Atar,20.5169,-13.0499,104.7,13,2,8.32,MR,119.7,Clear Skies and Light
+357,Ekhabi,53.5102,142.9671,53.2,92,32,7.76,RU,177.2,Slightly cloudy and Cool
+358,Plouzane,48.3833,-4.6167,62.65,68,0,5.75,FR,130.65,Clear Skies and Light
+359,Skibbereen,51.55,-9.2667,61.11,83,20,8.16,IE,164.11,Slightly cloudy and Cool
+360,Vila Praia De Ancora,41.811,-8.8526,66.11,77,53,13.24,PT,196.11,Slightly cloudy and Cool
+361,Valparaiso,-33.0393,-71.6273,61.03,73,40,11.5,CL,174.03,Slightly cloudy and Cool
+362,Glendive,47.1053,-104.7125,80.22,29,75,17.27,US,184.22,Slightly cloudy and Cool
+363,Dunedin,-45.8742,170.5036,43.81,92,100,7.0,NZ,235.81,Warm and Humid
+364,Shahr-E Kord,32.3256,50.8644,83.97,24,75,18.41,IR,182.97,Slightly cloudy and Cool
+365,Panjab,34.388,67.0233,61.68,36,0,5.32,AF,97.68,Clear Skies and Light
+366,Sistranda,63.7256,8.834,51.76,73,100,14.12,NO,224.76,Cool and Cloudy
+367,Hay River,60.8156,-115.7999,67.98,64,75,11.5,CA,206.98000000000002,Cool and Cloudy
+368,Chapais,49.7834,-74.8492,74.98,47,97,5.59,CA,218.98000000000002,Cool and Cloudy
+369,Sand,50.0,10.6,56.46,80,22,3.29,DE,158.46,Slightly cloudy and Cool
+370,Mayskiy,47.6931,40.1025,71.01,55,24,3.04,RU,150.01,Clear Skies and Light
+371,Igrim,63.1906,64.4162,55.02,64,0,3.71,RU,119.02000000000001,Clear Skies and Light
+372,Nadvoitsy,63.8667,34.3167,59.67,96,69,7.2,RU,224.67000000000002,Cool and Cloudy
+373,Nome,64.5011,-165.4064,50.16,87,100,0.0,US,237.16,Warm and Humid
+374,Great Bend,38.3645,-98.7648,87.93,55,0,8.05,US,142.93,Clear Skies and Light
+375,Solton,52.8429,86.4787,55.11,87,85,4.29,RU,227.11,Cool and Cloudy
+376,Bridlington,54.0831,-0.1919,63.9,76,100,16.78,GB,239.9,Warm and Humid
+377,Zapresic,45.8564,15.8078,73.92,69,100,5.32,HR,242.92000000000002,Warm and Humid
+378,Leningradskiy,69.3833,178.4167,37.51,86,96,2.84,RU,219.51,Cool and Cloudy
+379,Santa Cruz,-17.8,-63.1667,87.85,45,40,18.41,BO,172.85,Slightly cloudy and Cool
+380,San Policarpo,12.1791,125.5072,77.63,91,100,5.53,PH,268.63,Warm and Humid
+381,Margate,51.3813,1.3862,64.31,71,100,4.0,GB,235.31,Warm and Humid
+382,Port-Gentil,-0.7193,8.7815,75.16,88,40,10.36,GA,203.16,Cool and Cloudy
+383,Gizo,-8.103,156.8419,81.23,76,29,13.24,SB,186.23000000000002,Slightly cloudy and Cool
+384,Lashio,22.9333,97.75,68.16,99,98,0.94,MM,265.15999999999997,Warm and Humid
+385,Te Anau,-45.4167,167.7167,42.03,98,100,2.89,NZ,240.03,Warm and Humid
+386,Taikang,46.8333,124.4167,72.5,90,100,7.05,CN,262.5,Warm and Humid
+387,Byron Bay,-28.65,153.6167,49.95,65,100,8.37,AU,214.95,Cool and Cloudy
+388,Brae,60.3964,-1.353,54.1,81,50,7.0,GB,185.1,Slightly cloudy and Cool
+389,Leshukonskoye,64.8989,45.7622,63.64,72,87,7.16,RU,222.64,Cool and Cloudy
+390,Esna,25.2934,32.554,91.18,14,0,9.51,EG,105.18,Clear Skies and Light
+391,Uyuni,-20.4597,-66.825,58.51,17,11,9.64,BO,86.50999999999999,Clear Skies and Light
+392,Oltu,40.5498,42.0013,58.89,78,0,2.51,TR,136.89,Clear Skies and Light
+393,Waipawa,-41.4122,175.5153,48.96,91,100,5.66,NZ,239.96,Warm and Humid
+394,Touros,-5.1989,-35.4608,77.94,76,7,15.26,BR,160.94,Slightly cloudy and Cool
+395,Porto Novo,6.4965,2.6036,78.62,86,100,8.14,BJ,264.62,Warm and Humid
+396,Lehututu,-23.9667,21.8667,67.71,27,95,13.69,BW,189.70999999999998,Slightly cloudy and Cool
+397,Bowen,-20.0167,148.2333,53.89,66,0,8.19,AU,119.89,Clear Skies and Light
+398,Rawson,-43.3002,-65.1023,48.2,67,24,13.82,AR,139.2,Clear Skies and Light
+399,Umm Lajj,25.0213,37.2685,90.28,41,97,5.01,SA,228.28,Cool and Cloudy
+400,Amalapuram,16.5833,82.0167,78.53,89,99,1.41,IN,266.53,Warm and Humid
+401,Coffs Harbour,-30.3,153.1333,46.13,87,65,4.61,AU,198.13,Cool and Cloudy
+402,Komsomolskiy,40.4272,71.7189,84.92,37,46,4.61,UZ,167.92000000000002,Slightly cloudy and Cool
+403,Strezhevoy,60.7333,77.5889,55.54,75,100,9.24,RU,230.54,Cool and Cloudy
+404,Saldanha,-33.0117,17.9442,50.05,76,0,5.77,ZA,126.05,Clear Skies and Light
+405,Vestmannaeyjar,63.4427,-20.2734,52.79,93,100,17.27,IS,245.79,Warm and Humid
+406,Zaysan,47.4667,84.8667,69.91,25,0,10.18,KZ,94.91,Clear Skies and Light
+407,Broome,42.2506,-75.833,84.61,52,40,12.66,US,176.61,Slightly cloudy and Cool
+408,Victoria,22.2855,114.1577,85.95,82,0,5.01,HK,167.95,Slightly cloudy and Cool
+409,Rocha,-34.4833,-54.3333,68.59,83,96,5.37,UY,247.59,Warm and Humid
+410,Duluth,46.7833,-92.1066,80.29,39,20,17.27,US,139.29000000000002,Clear Skies and Light
+411,Calama,-22.4667,-68.9333,73.89,9,0,20.71,CL,82.89,Clear Skies and Light
+412,Muisne,0.6,-80.0333,74.79,86,100,9.4,EC,260.79,Warm and Humid
+413,Koslan,63.4564,48.8989,58.24,65,82,5.61,RU,205.24,Cool and Cloudy
+414,Portland,45.5234,-122.6762,93.87,45,17,4.0,US,155.87,Slightly cloudy and Cool
+415,Baoying,33.2292,119.3092,76.6,95,6,5.77,CN,177.6,Slightly cloudy and Cool
+416,Voh,-20.9667,164.7,67.96,85,100,4.16,NC,252.95999999999998,Warm and Humid
+417,Sao Luiz Gonzaga,-28.4083,-54.9608,75.25,73,100,3.74,BR,248.25,Warm and Humid
+418,Jieshi,22.8134,115.8257,83.86,75,29,5.97,CN,187.86,Slightly cloudy and Cool
+419,Richards Bay,-28.783,32.0377,65.79,90,56,6.82,ZA,211.79000000000002,Cool and Cloudy
+420,Tezu,27.9167,96.1667,75.38,96,89,2.59,IN,260.38,Warm and Humid
+421,Dzhebariki-Khaya,62.2167,135.8,65.59,88,3,0.25,RU,156.59,Slightly cloudy and Cool
+422,Illapel,-31.6308,-71.1653,59.0,72,100,6.49,CL,231.0,Cool and Cloudy
+423,Ivanovka,42.8878,75.085,81.68,27,95,0.0,KG,203.68,Cool and Cloudy
+424,Rauma,61.1272,21.5113,60.84,69,100,9.73,FI,229.84,Cool and Cloudy
+425,Anqing,30.5092,117.0506,83.66,80,92,1.36,CN,255.66,Warm and Humid
+426,Bachaquero,9.9694,-71.1494,86.86,65,19,8.63,VE,170.86,Slightly cloudy and Cool
+427,Marfino,55.7028,37.3822,71.85,68,0,6.71,RU,139.85,Clear Skies and Light
+428,Datong,40.0936,113.2914,60.24,86,1,0.94,CN,147.24,Clear Skies and Light
+429,Seymchan,62.8833,152.4333,55.02,55,6,5.7,RU,116.02000000000001,Clear Skies and Light
+430,Sunagawa,43.4864,141.9056,64.63,95,0,1.7,JP,159.63,Slightly cloudy and Cool
+431,Saratoga Springs,43.0831,-73.7846,83.91,51,99,1.99,US,233.91,Cool and Cloudy
+432,Arraial Do Cabo,-22.9661,-42.0278,73.26,73,0,16.11,BR,146.26,Clear Skies and Light
+433,Kashan,33.9831,51.4364,96.39,29,100,4.61,IR,225.39,Cool and Cloudy
+434,Kathu,7.9178,98.3332,86.76,84,100,5.7,TH,270.76,Warm and Humid
+435,Dvinskoy,62.1535,45.1175,62.26,85,9,5.44,RU,156.26,Slightly cloudy and Cool
+436,Airai,-8.9266,125.4092,50.94,84,61,4.18,TL,195.94,Slightly cloudy and Cool
+437,Digoin,46.4812,3.9795,68.09,55,0,4.61,FR,123.09,Clear Skies and Light
+438,Maracaibo,10.6317,-71.6406,87.82,55,74,9.13,VE,216.82,Cool and Cloudy
+439,Vila,42.0304,-8.1588,56.28,59,23,3.76,PT,138.28,Clear Skies and Light
+440,Waverley,-25.7023,28.2591,57.0,66,41,3.44,ZA,164.0,Slightly cloudy and Cool
+441,Lagoa,39.05,-27.9833,72.77,88,95,12.48,PT,255.76999999999998,Warm and Humid
+442,Asosa,10.0667,34.5333,57.99,91,96,3.02,ET,244.99,Warm and Humid
+443,Sukabumi,-6.9181,106.9267,66.52,96,59,1.72,ID,221.51999999999998,Cool and Cloudy
+444,Gat,31.61,34.7642,81.81,62,0,6.44,IL,143.81,Clear Skies and Light
+445,Indi,17.1667,75.9667,79.77,75,100,2.98,IN,254.76999999999998,Warm and Humid
+446,Tigzirt,36.8886,4.1198,77.61,78,0,8.77,DZ,155.61,Slightly cloudy and Cool
+447,Mount Pleasant,32.7941,-79.8626,95.31,68,20,14.97,US,183.31,Slightly cloudy and Cool
+448,Hervey Bay,-25.2986,152.8535,48.02,71,1,5.01,AU,120.02000000000001,Clear Skies and Light
+449,Muriti,-1.9833,32.9167,73.49,65,92,3.4,TZ,230.49,Cool and Cloudy
+450,Arequipa,-16.3989,-71.535,66.27,24,0,9.22,PE,90.27,Clear Skies and Light
+451,Pilar,-9.5972,-35.9567,76.93,87,85,5.46,BR,248.93,Warm and Humid
+452,Luba,3.4568,8.5547,76.89,88,99,9.6,GQ,263.89,Warm and Humid
+453,Pundaguitan,6.3711,126.1689,82.33,77,98,6.87,PH,257.33,Warm and Humid
+454,Syasstroy,60.1367,32.5691,61.92,92,100,4.27,RU,253.92000000000002,Warm and Humid
+455,Rio Grande,-32.035,-52.0986,62.71,89,66,5.64,BR,217.71,Cool and Cloudy
+456,Tukrah,32.5341,20.5791,80.04,77,0,5.82,LY,157.04000000000002,Slightly cloudy and Cool
+457,Torres,-29.3353,-49.7269,76.82,83,72,5.21,BR,231.82,Cool and Cloudy
+458,Tlapacoyan,19.9667,-97.2167,84.92,65,57,4.16,MX,206.92000000000002,Cool and Cloudy
+459,Coro,11.4045,-69.6734,86.36,62,23,21.99,VE,171.36,Slightly cloudy and Cool
+460,Sitio Novo Do Tocantins,-5.5183,-47.4611,93.13,36,40,8.05,BR,169.13,Slightly cloudy and Cool
+461,Vitim,59.4511,112.5578,64.0,98,72,1.19,RU,234.0,Cool and Cloudy
+462,Ambilobe,-13.2,49.05,67.26,85,71,3.47,MG,223.26,Cool and Cloudy
+463,Fortuna,40.5982,-124.1573,70.93,70,28,7.0,US,168.93,Slightly cloudy and Cool
+464,Jijiang,29.2906,106.2542,73.49,95,100,1.25,CN,268.49,Warm and Humid
+465,Barraute,48.4335,-77.6328,75.47,58,100,5.73,CA,233.47,Cool and Cloudy
+466,Peniche,39.3558,-9.3811,68.29,83,0,19.42,PT,151.29000000000002,Clear Skies and Light
+467,Okha,53.5739,142.9478,53.62,92,28,8.16,RU,173.62,Slightly cloudy and Cool
+468,Ler,8.3018,30.1418,71.08,95,100,2.82,SS,266.08,Warm and Humid
+469,Verkhoyansk,67.5447,133.385,69.89,63,78,1.12,RU,210.89,Cool and Cloudy
+470,Saint-Michel-Des-Saints,46.6834,-73.9159,76.01,45,100,5.12,CA,221.01,Cool and Cloudy
+471,Wani,20.0667,78.95,77.9,88,98,4.21,IN,263.9,Warm and Humid
+472,Imeni Babushkina,59.7573,43.1285,65.26,92,71,5.68,RU,228.26,Cool and Cloudy
+473,Sereflikochisar,38.9393,33.5386,75.43,32,0,11.88,TR,107.43,Clear Skies and Light
+474,Alofi,-19.0595,-169.9187,75.09,83,75,9.22,NU,233.09,Cool and Cloudy
+475,Kumbo,6.2,10.6667,58.28,96,98,4.03,CM,252.28,Warm and Humid
+476,San Luis,-33.295,-66.3356,46.09,90,100,12.08,AR,236.09,Warm and Humid
+477,Acapulco,16.8634,-99.8901,87.62,62,75,8.05,MX,224.62,Cool and Cloudy
+478,Port Augusta,-32.5,137.7667,41.79,61,10,1.83,AU,112.78999999999999,Clear Skies and Light
+479,San Lorenzo,-25.3333,-57.5333,86.94,45,0,5.99,PY,131.94,Clear Skies and Light
+480,Sinjar,36.3209,41.8754,90.59,10,0,10.69,IQ,100.59,Clear Skies and Light
+481,Acarau,-2.8856,-40.12,80.06,75,64,17.85,BR,219.06,Cool and Cloudy
+482,Tessaoua,13.7574,7.9874,76.69,76,87,27.2,NE,239.69,Warm and Humid
+483,Ouegoa,-20.35,164.4333,68.88,85,75,6.91,NC,228.88,Cool and Cloudy
+484,Ketchikan,55.3422,-131.6461,75.67,46,0,12.66,US,121.67,Clear Skies and Light
+485,Tarata,-17.6167,-66.0167,78.22,12,6,3.49,BO,96.22,Clear Skies and Light
+486,Inhambane,-23.865,35.3833,64.96,74,0,5.88,MZ,138.95999999999998,Clear Skies and Light
+487,Tiznit,29.5833,-9.5,79.32,40,0,6.85,MA,119.32,Clear Skies and Light
+488,Quelimane,-17.8786,36.8883,66.15,82,0,0.0,MZ,148.15,Clear Skies and Light
+489,Fermo,43.1647,13.7233,72.84,78,100,2.06,IT,250.84,Warm and Humid
+490,Geraldton,-28.7667,114.6,57.61,67,100,12.66,AU,224.61,Cool and Cloudy
+491,Agirish,61.9247,63.0231,61.63,55,100,3.89,RU,216.63,Cool and Cloudy
+492,Mecca,21.4267,39.8261,94.59,38,100,3.06,SA,232.59,Cool and Cloudy
+493,Sao Jose Da Coroa Grande,-8.8978,-35.1478,75.07,82,34,8.7,BR,191.07,Slightly cloudy and Cool
+494,Bansi,27.1833,82.9333,83.21,76,100,5.32,IN,259.21,Warm and Humid
+495,Bafra,41.5678,35.9069,67.48,84,0,4.7,TR,151.48000000000002,Clear Skies and Light
+496,Progreso,21.2833,-89.6667,91.51,69,45,15.32,MX,205.51,Cool and Cloudy
+497,Pemangkat,1.1667,108.9667,76.98,89,100,4.79,ID,265.98,Warm and Humid
+498,Palmer,42.1584,-72.3287,86.14,43,75,8.05,US,204.14,Cool and Cloudy
+499,Jensen Beach,27.2545,-80.2298,92.07,69,40,13.8,US,201.07,Cool and Cloudy
+500,Cranbrook,49.4999,-115.7688,87.64,29,20,4.61,CA,136.64,Clear Skies and Light
+501,Novorzhev,57.0294,29.3338,55.99,98,98,4.0,RU,251.99,Warm and Humid
+502,Kjopsvik,68.097,16.3742,49.87,93,100,7.09,NO,242.87,Warm and Humid
+503,Deputatskiy,69.3,139.9,49.78,56,98,3.91,RU,203.78,Cool and Cloudy
+504,Giyon,8.5333,37.9833,57.52,96,95,2.37,ET,248.52,Warm and Humid
+505,Klaksvik,62.2266,-6.589,52.72,87,100,12.06,FO,239.72,Warm and Humid
+506,Smithers,54.7804,-127.1743,80.92,47,0,2.3,CA,127.92,Clear Skies and Light
+507,Berlevag,70.8578,29.0864,62.4,94,100,8.05,NO,256.4,Warm and Humid
+508,Prince Rupert,54.3161,-130.3201,71.69,77,0,12.66,CA,148.69,Clear Skies and Light
+509,Ugoofaaru,5.6667,73.0,82.02,74,79,15.26,MV,235.01999999999998,Warm and Humid
+510,Wad Madani,14.4012,33.5199,79.5,66,100,13.13,SD,245.5,Warm and Humid
+511,Yarada,17.65,83.2667,80.92,94,40,2.3,IN,214.92000000000002,Cool and Cloudy
+512,Tigil,57.8,158.6667,53.64,96,100,6.2,RU,249.64,Warm and Humid
+513,Eureka,40.8021,-124.1637,71.2,73,53,4.0,US,197.2,Slightly cloudy and Cool
+514,Bedum,53.3008,6.6028,60.8,72,69,7.47,NL,201.8,Cool and Cloudy
+515,Ornskoldsvik,63.2909,18.7153,56.35,62,100,13.8,SE,218.35,Cool and Cloudy
+516,Yueyang,29.3333,113.0919,81.23,75,100,1.83,CN,256.23,Warm and Humid
+517,Upata,8.0086,-62.3989,83.21,67,27,1.86,VE,177.20999999999998,Slightly cloudy and Cool
+518,Sarlat-La-Caneda,44.889,1.2166,67.32,45,1,3.11,FR,113.32,Clear Skies and Light
+519,Benton Harbor,42.1167,-86.4542,84.85,68,0,4.61,US,152.85,Clear Skies and Light
+520,Riyadh,24.6877,46.7219,96.94,13,100,17.05,SA,209.94,Cool and Cloudy
+521,Paranhos,-23.8928,-55.4311,85.84,30,20,5.61,BR,135.84,Clear Skies and Light
+522,Jiwani,25.05,61.7417,82.24,82,100,8.39,PK,264.24,Warm and Humid
+523,Samsun,41.25,36.3333,66.96,88,40,1.14,TR,194.95999999999998,Slightly cloudy and Cool
+524,Oranjestad,12.524,-70.027,82.35,78,20,11.5,AW,180.35,Slightly cloudy and Cool
+525,Huaicheng,23.9051,112.1931,78.13,75,12,0.81,CN,165.13,Slightly cloudy and Cool
+526,Ugento,39.9263,18.1574,84.45,66,18,4.29,IT,168.45,Slightly cloudy and Cool
+527,Bud,39.447,-86.1758,84.74,77,54,13.69,US,215.74,Cool and Cloudy
+528,North Platte,41.1239,-100.7654,82.29,47,0,0.0,US,129.29000000000002,Clear Skies and Light
+529,Sept-Iles,50.2001,-66.3821,71.6,69,75,13.8,CA,215.6,Cool and Cloudy
+530,Anadyr,64.75,177.4833,48.7,87,75,6.71,RU,210.7,Cool and Cloudy
+531,Vega Baja,18.4444,-66.3877,87.78,81,11,3.0,PR,179.78,Slightly cloudy and Cool
+532,Yerbogachen,61.2767,108.0108,60.04,92,100,5.86,RU,252.04,Warm and Humid
+533,Clonakilty,51.6231,-8.8706,58.21,79,18,8.46,IE,155.21,Slightly cloudy and Cool
+534,Nagato,34.3833,131.2,79.61,85,31,12.91,JP,195.61,Slightly cloudy and Cool
+535,Wewak,-3.5534,143.6268,78.13,89,28,6.55,PG,195.13,Slightly cloudy and Cool
+536,Forbes,-33.3833,148.0167,45.34,91,5,4.72,AU,141.34,Clear Skies and Light
+537,Oskemen,49.9565,82.6119,55.36,94,8,4.47,KZ,157.36,Slightly cloudy and Cool
+538,Alta Floresta,-9.8756,-56.0861,94.82,24,0,6.91,BR,118.82,Clear Skies and Light
+539,Itarema,-2.9248,-39.9167,79.54,76,90,16.37,BR,245.54000000000002,Warm and Humid
+540,Cleveland,41.4995,-81.6954,79.02,92,100,11.5,US,271.02,Warm and Humid
+541,Dafeng,23.4517,108.5881,77.61,82,100,2.48,CN,259.61,Warm and Humid
+542,Port Moresby,-9.4431,147.1797,76.42,88,20,11.5,PG,184.42000000000002,Slightly cloudy and Cool
+543,Whitehorse,60.7161,-135.0538,60.1,65,100,3.44,CA,225.1,Cool and Cloudy
+544,Ternate,0.8,127.4,79.25,82,33,2.95,ID,194.25,Slightly cloudy and Cool
+545,Ust-Omchug,61.15,149.6333,52.05,58,35,4.05,RU,145.05,Clear Skies and Light
+546,Payson,40.0444,-111.7321,95.54,24,40,5.75,US,159.54000000000002,Slightly cloudy and Cool
+547,Los Llanos De Aridane,28.6585,-17.9182,69.55,83,20,18.41,ES,172.55,Slightly cloudy and Cool
+548,Cerqueira Cesar,-23.0356,-49.1661,76.5,36,40,4.99,BR,152.5,Clear Skies and Light
+549,Puerto Suarez,-18.95,-57.8,95.36,59,0,11.5,BO,154.36,Clear Skies and Light
+550,Tomatlan,19.9333,-105.25,90.45,53,98,8.3,MX,241.45,Warm and Humid
+551,Bassila,9.0081,1.6654,71.53,96,100,4.0,BJ,267.53,Warm and Humid
+552,Kendari,-3.945,122.4989,71.76,90,33,3.2,ID,194.76,Slightly cloudy and Cool
+553,Azangaro,-14.9167,-70.2167,62.82,13,6,6.04,PE,81.82,Clear Skies and Light
+554,Tual,-5.6667,132.75,78.82,85,56,23.89,ID,219.82,Cool and Cloudy
+555,Qasigiannguit,68.8193,-51.1922,44.85,87,88,3.58,GL,219.85,Cool and Cloudy
+556,Mormugao,15.4,73.8,78.06,89,75,5.75,IN,242.06,Warm and Humid
+557,Bahia Blanca,-38.7196,-62.2724,50.52,100,100,11.5,AR,250.52,Warm and Humid
+558,Sheopur,25.6667,76.7,80.78,84,100,8.32,IN,264.78,Warm and Humid
+559,Nchelenge,-9.3451,28.734,68.11,52,6,6.04,ZM,126.11,Clear Skies and Light
+560,Mnogovershinnyy,53.9353,139.9242,54.91,92,13,4.27,RU,159.91,Slightly cloudy and Cool
+561,Saint-Leu,-21.15,55.2833,68.83,76,47,2.42,RE,191.82999999999998,Slightly cloudy and Cool
+562,Amboasary,-25.0333,46.3833,65.79,78,40,5.93,MG,183.79000000000002,Slightly cloudy and Cool
+563,Graaff-Reinet,-32.2522,24.5308,47.91,88,8,2.98,ZA,143.91,Clear Skies and Light
+564,Razdolinsk,58.4211,94.6658,53.33,97,100,2.8,RU,250.32999999999998,Warm and Humid
+565,Saint-Joseph,-21.3667,55.6167,66.58,76,25,4.16,RE,167.57999999999998,Slightly cloudy and Cool
+566,Ewa Beach,21.3156,-158.0072,84.15,54,40,18.41,US,178.15,Slightly cloudy and Cool
+567,Katobu,-4.9408,122.5276,72.46,87,48,4.12,ID,207.45999999999998,Cool and Cloudy
+568,Big Rapids,43.6981,-85.4837,80.1,65,75,9.22,US,220.1,Cool and Cloudy
+569,Falmouth,50.1544,-5.0711,61.38,67,0,5.75,GB,128.38,Clear Skies and Light
+570,Kuminskiy,58.6667,66.5667,54.05,81,100,5.7,RU,235.05,Warm and Humid
+571,Mocuba,-16.8392,36.9856,60.84,85,9,3.2,MZ,154.84,Clear Skies and Light
+572,La Sarre,48.8002,-79.1996,78.1,47,63,10.0,CA,188.1,Slightly cloudy and Cool
+573,Shiraoi,42.55,141.35,71.58,90,0,4.23,JP,161.57999999999998,Slightly cloudy and Cool
+574,Nemuro,43.3236,145.575,61.92,99,100,10.18,JP,260.92,Warm and Humid
+575,Ayr,55.4627,-4.6339,58.98,72,20,6.91,GB,150.98,Clear Skies and Light
+576,Kayattar,8.95,77.8,81.16,71,74,6.6,IN,226.16,Cool and Cloudy
+577,Moerai,-22.4333,-151.3333,71.58,68,54,24.67,PF,193.57999999999998,Slightly cloudy and Cool
+578,Aksarka,66.5606,67.7975,54.18,71,18,6.22,RU,143.18,Clear Skies and Light
+579,Zhuhai,22.2769,113.5678,86.86,84,0,6.91,CN,170.86,Slightly cloudy and Cool
+580,Pyaozerskiy,65.8333,31.1667,59.04,79,50,6.71,RU,188.04,Slightly cloudy and Cool
+581,Dourbali,11.8091,15.8632,73.02,89,100,4.94,TD,262.02,Warm and Humid
+582,Pierre,44.3683,-100.351,87.85,42,20,13.8,US,149.85,Clear Skies and Light
+583,Povenets,62.8487,34.8262,60.87,93,100,5.17,RU,253.87,Warm and Humid
+584,Eyl,7.9803,49.8164,77.22,75,100,23.85,SO,252.22,Warm and Humid
+585,Changli,39.7042,119.1506,73.13,93,100,6.24,CN,266.13,Warm and Humid
+586,Tuy Hoa,13.0833,109.3,76.78,89,44,3.89,VN,209.78,Cool and Cloudy
+587,Burgersdorp,-30.9977,26.3286,50.47,78,7,5.01,ZA,135.47,Clear Skies and Light
+588,Nambour,-26.6333,152.95,50.88,87,16,2.91,AU,153.88,Clear Skies and Light
+589,Kahului,20.8947,-156.47,87.82,53,20,16.11,US,160.82,Slightly cloudy and Cool
+590,Vanimo,-2.6741,141.3028,76.73,90,49,5.26,PG,215.73000000000002,Cool and Cloudy
+591,Yangambi,0.8102,24.4336,71.28,97,71,1.72,CD,239.28,Warm and Humid
+592,Tahoua,14.8888,5.2692,92.34,41,99,14.52,NE,232.34,Cool and Cloudy
+593,Capreol,46.706,-80.9225,71.55,68,100,14.97,CA,239.55,Warm and Humid
+594,Shenjiamen,29.9576,122.298,79.79,91,26,13.87,CN,196.79000000000002,Slightly cloudy and Cool
+595,Gravdal,68.1214,13.5031,48.09,100,75,12.66,NO,223.09,Cool and Cloudy
+596,Vila Velha,-20.3297,-40.2925,76.95,75,0,5.75,BR,151.95,Clear Skies and Light
+597,Sibolga,1.7427,98.7792,75.78,82,100,3.36,ID,257.78,Warm and Humid
+598,Saint Paul,44.9444,-93.0933,83.77,43,75,17.27,US,201.76999999999998,Cool and Cloudy
+599,Walvis Bay,-22.9575,14.5053,54.09,93,17,2.3,NA,164.09,Slightly cloudy and Cool
+600,Vila Do Maio,15.1333,-23.2167,81.39,81,97,8.52,CV,259.39,Warm and Humid
+601,Billings,45.7833,-108.5007,87.3,37,40,16.11,US,164.3,Slightly cloudy and Cool
+602,Port Hueneme,34.1478,-119.1951,94.51,72,75,11.5,US,241.51,Warm and Humid
+603,Ati,13.2154,18.3353,77.99,70,100,10.45,TD,247.99,Warm and Humid
+604,Vanavara,60.34,102.2797,55.72,94,100,1.3,RU,249.72,Warm and Humid
+605,Maragogi,-9.0122,-35.2225,74.44,84,19,8.14,BR,177.44,Slightly cloudy and Cool
+606,Sakakah,29.9697,40.2064,94.57,12,0,9.22,SA,106.57,Clear Skies and Light
+607,Bure,10.7,37.0667,57.22,97,100,1.07,ET,254.22,Warm and Humid
+608,Ulladulla,-35.35,150.4667,47.55,79,1,7.0,AU,127.55,Clear Skies and Light
+609,Port Hardy,50.6996,-127.4199,75.38,64,0,6.91,CA,139.38,Clear Skies and Light
+610,Senno,59.5336,33.9167,63.27,95,97,2.84,RU,255.27,Warm and Humid
+611,Gawler,-34.6,138.7333,45.48,95,82,3.76,AU,222.48,Cool and Cloudy
+612,Sioux Lookout,50.1001,-91.917,57.27,94,100,10.36,CA,251.27,Warm and Humid
+613,Ascension,30.2169,-90.9001,90.0,72,75,4.61,US,237.0,Warm and Humid
+614,Pathein,16.7833,94.7333,79.59,89,9,5.97,MM,177.59,Slightly cloudy and Cool
+615,Flic En Flac,-20.2742,57.3631,71.53,80,47,10.78,MU,198.53,Cool and Cloudy
+616,Teahupoo,-17.8333,-149.2667,75.16,76,96,23.91,PF,247.16,Warm and Humid
+617,Alekseyevsk,57.8406,108.3492,59.04,97,100,3.51,RU,256.04,Warm and Humid
+618,Huarmey,-10.0681,-78.1522,68.07,72,5,12.93,PE,145.07,Clear Skies and Light
+619,Owando,-0.4819,15.8999,77.27,64,97,2.26,CG,238.26999999999998,Warm and Humid
+620,Atikokan,48.7555,-91.6216,70.32,53,72,12.39,CA,195.32,Slightly cloudy and Cool
+621,Bhainsdehi,21.6467,77.6325,71.17,94,99,2.66,IN,264.17,Warm and Humid
+622,Lengshuijiang,27.6881,111.4294,78.82,73,95,2.15,CN,246.82,Warm and Humid
+623,Xai-Xai,-25.0519,33.6442,62.55,83,0,9.01,MZ,145.55,Clear Skies and Light
+624,Cedar City,37.6775,-113.0619,79.77,41,0,6.91,US,120.77,Clear Skies and Light
+625,Luwuk,-0.9516,122.7875,76.17,93,99,5.37,ID,268.17,Warm and Humid
+626,Utica,43.1009,-75.2327,84.69,55,100,1.99,US,239.69,Warm and Humid
+627,Fuxin,42.0156,121.6589,71.28,97,100,2.04,CN,268.28,Warm and Humid
+628,Buta,2.7858,24.73,70.65,99,100,0.45,CD,269.65,Warm and Humid
+629,Novosergiyevka,52.0934,53.6528,67.86,79,82,4.43,RU,228.86,Cool and Cloudy
+630,Maningrida,-12.0667,134.2667,59.41,95,15,8.72,AU,169.41,Slightly cloudy and Cool
+631,Moose Factory,51.2585,-80.6094,66.2,94,75,10.36,CA,235.2,Warm and Humid
+632,Abu Dhabi,24.4667,54.3667,89.71,69,0,6.91,AE,158.70999999999998,Slightly cloudy and Cool
+633,Kudahuvadhoo,2.6708,72.8944,82.56,76,97,14.5,MV,255.56,Warm and Humid
+634,Ajdabiya,30.7554,20.2263,80.73,68,0,14.07,LY,148.73000000000002,Clear Skies and Light
+635,Paamiut,61.994,-49.6678,42.48,94,51,15.75,GL,187.48,Slightly cloudy and Cool
+636,Lorengau,-2.0226,147.2712,81.57,76,39,9.86,PG,196.57,Slightly cloudy and Cool
+637,Biak,-0.9131,122.8766,74.71,91,98,6.91,ID,263.71,Warm and Humid
+638,Zhigansk,66.7697,123.3711,66.36,68,11,3.56,RU,145.36,Clear Skies and Light
+639,Murgab,37.4966,61.9714,82.27,42,0,6.91,TM,124.27,Clear Skies and Light
+640,Spirit River,55.7833,-118.8361,86.43,46,0,5.86,CA,132.43,Clear Skies and Light
+641,Tahe,52.3333,124.7333,65.64,96,100,0.74,CN,261.64,Warm and Humid
+642,Goryachiy Klyuch,44.6308,39.13,65.82,82,0,3.69,RU,147.82,Clear Skies and Light
+643,Iberia,29.9502,-91.7507,87.98,74,100,10.36,US,261.98,Warm and Humid
+644,Honningsvag,70.9821,25.9704,49.75,93,100,14.97,NO,242.75,Warm and Humid
+645,Samarai,-10.6167,150.6667,78.31,87,100,14.38,PG,265.31,Warm and Humid
+646,San Rafael,-34.6177,-68.3301,50.5,64,100,8.86,AR,214.5,Cool and Cloudy
+647,Ratnagiri,16.9833,73.3,79.25,88,97,6.85,IN,264.25,Warm and Humid
+648,Kontagora,10.3999,5.4695,75.61,82,90,4.52,NG,247.61,Warm and Humid
+649,Vlasikha,53.2972,83.5742,68.85,64,0,4.47,RU,132.85,Clear Skies and Light
+650,Ejura,7.3856,-1.3562,73.15,93,85,5.99,GH,251.15,Warm and Humid
+651,Yeppoon,-23.1333,150.7333,42.58,62,0,4.79,AU,104.58,Clear Skies and Light
+652,Ishigaki,24.3448,124.1572,80.73,94,20,3.44,JP,194.73000000000002,Slightly cloudy and Cool
+653,Atherton,53.5237,-2.4935,65.89,69,100,1.99,GB,234.89,Cool and Cloudy
+654,Hauterive,46.0901,3.4459,66.96,51,29,4.07,FR,146.95999999999998,Clear Skies and Light
+655,Balad,34.0164,44.1453,95.29,13,0,11.27,IQ,108.29,Clear Skies and Light
+656,Iraray,8.9936,118.0511,77.94,87,23,3.76,PH,187.94,Slightly cloudy and Cool
+657,Nouadhibou,20.931,-17.0347,76.98,78,3,21.85,MR,157.98000000000002,Slightly cloudy and Cool
+658,Westport,41.1415,-73.3579,86.72,56,0,8.05,US,142.72,Clear Skies and Light
+659,Tibati,6.4667,12.6333,66.43,96,100,2.46,CM,262.43,Warm and Humid
+660,Sambava,-14.2667,50.1667,66.38,90,13,7.05,MG,169.38,Slightly cloudy and Cool
+661,Pedernales,18.0384,-71.744,85.68,64,19,3.36,DO,168.68,Slightly cloudy and Cool
+662,Jalu,29.0331,21.5482,86.95,37,0,18.97,LY,123.95,Clear Skies and Light
+663,Lovington,32.944,-103.3485,98.33,25,11,1.99,US,134.32999999999998,Clear Skies and Light
+664,Poronaysk,49.2167,143.1167,56.16,96,100,5.93,RU,252.16,Warm and Humid
+665,Kayan,16.9056,96.5631,80.74,81,100,4.56,MM,261.74,Warm and Humid
+666,Dasoguz,41.8363,59.9666,80.55,44,0,6.91,TM,124.55,Clear Skies and Light
+667,Nakhon Si Thammarat,8.25,100.0,76.93,90,100,2.86,TH,266.93,Warm and Humid
+668,Barcelona,41.3888,2.159,83.84,76,40,11.5,ES,199.84,Cool and Cloudy
+669,Bontang,0.1333,117.5,76.98,89,100,3.71,ID,265.98,Warm and Humid
+670,Steamboat Springs,40.485,-106.8317,84.94,26,40,4.61,US,150.94,Clear Skies and Light
+671,Voi,-3.3945,38.563,67.73,79,75,8.86,KE,221.73000000000002,Cool and Cloudy
+672,Rivadavia,-33.1905,-68.4608,52.92,60,100,15.3,AR,212.92000000000002,Cool and Cloudy
+673,Praia Da Vitoria,38.7333,-27.0667,76.75,100,100,6.11,PT,276.75,
+674,Kijang,35.2442,129.2139,78.53,92,28,10.16,KR,198.53,Cool and Cloudy
+675,Hamilton,39.1834,-84.5333,83.59,79,100,9.22,US,262.59000000000003,Warm and Humid
+676,Nicoya,10.1483,-85.452,83.05,72,64,2.66,CR,219.05,Cool and Cloudy
+677,Kaseda,31.4167,130.3167,79.74,88,41,10.85,JP,208.74,Cool and Cloudy
+678,Tucuman,-26.8241,-65.2226,78.8,50,75,8.05,AR,203.8,Cool and Cloudy
+679,Sayyan,15.1718,44.3244,64.11,66,100,4.45,YE,230.11,Cool and Cloudy
